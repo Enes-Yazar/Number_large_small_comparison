@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\uygulam2\uygulam2\bin\Debug\uygulam2.exe.config
+C:\Users\Admin\source\repos\uygulam2\uygulam2\bin\Debug\uygulam2.exe
+C:\Users\Admin\source\repos\uygulam2\uygulam2\bin\Debug\uygulam2.pdb
+C:\Users\Admin\source\repos\uygulam2\uygulam2\obj\Debug\uygulam2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\uygulam2\uygulam2\obj\Debug\uygulam2.Form1.resources
+C:\Users\Admin\source\repos\uygulam2\uygulam2\obj\Debug\uygulam2.Properties.Resources.resources
+C:\Users\Admin\source\repos\uygulam2\uygulam2\obj\Debug\uygulam2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\uygulam2\uygulam2\obj\Debug\uygulam2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\uygulam2\uygulam2\obj\Debug\uygulam2.exe
+C:\Users\Admin\source\repos\uygulam2\uygulam2\obj\Debug\uygulam2.pdb
